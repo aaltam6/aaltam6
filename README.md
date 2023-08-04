@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Database Platforms:</h3>
+<h3 align="left">Languages and Database Platforms: /h3>
 
 <p align="left"> 
 
@@ -16,9 +16,11 @@
 
 <p align="left"> 
 
-<h3 align="left">Web Frameworks and Languages:</h3>
+<h3 align="left">Web Frameworks and Languages:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+</h3>
 
-<a href="https://flask.palletsprojects.com/en/2.3.x/)" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/en/2.3.x/)" target="_blank" rel="noreferrer"> <i class="devicon-flask-original-wordmark"> </i> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   
 
