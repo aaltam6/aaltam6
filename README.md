@@ -42,8 +42,13 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="(https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 
+</p>
 
+<h3 align="center">About Me.</h3>
 
+<p>
+<h3 align="left">I am a 22-year-old recent grad of LSU. I am seeking both full-time work and post-graduate education opportunities. I enjoy Python for its flexibility and slick syntax though my first language was actually C++. I have experience developing MySQL relational databases, web applications with Flask, performing simple data analytics with Pandas and Numpy, and architecting cloud solutions.:</h3>
+</p>
 
 
 
