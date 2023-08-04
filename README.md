@@ -49,7 +49,7 @@
 <p>
 <h3 align="left">I am a 22-year-old recent graduate of Louisiana State University. I am seeking both full-time work and post-graduate education opportunities. I enjoy Python for its flexibility and slick syntax though my first language was actually C++. I have experience developing MySQL Relational Databases, Web Applications with Flask, performing simple data analytics with Pandas and Numpy and architecting cloud solutions on AWS.:</h3>
 
-<h3 align="left">I enjoy riding and restoring classic motorcycles, I currently own a 1984 Honda Ascot VT500FT.:</h3>
+<h3 align="left">I enjoy riding and restoring classic motorcycles, I currently own a 1984 Honda Ascot VT500FT.</h3>
 </p>
 
 
