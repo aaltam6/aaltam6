@@ -20,8 +20,6 @@
 
 </p>
 
-<h3 align="center">About Me:</h3>
-
 <p>
 
 <h3 align="left"> I enjoy developing in Python the most, though the first language I learned to develop in was C. I am currently planning to pursue a graduate degree in Computer Science or Engineering.
