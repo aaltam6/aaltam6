@@ -1,4 +1,4 @@
-<h3 align="center">Information Systems graduate of Louisiana State University with an affinity for Python and Cloud Technologies.</h3>
+<h3 align="center">Information Systems graduate of Louisiana State University.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,9 +23,8 @@
 <h3 align="center">About Me:</h3>
 
 <p>
-<h3 align="left">I am a 22-year-old recent graduate of Louisiana State University living in Houston, Texas.</h3>
 
-<h3 align="left"> I enjoy developing in Python the most, though the first language I learned to develop in was C. I have experience developing MySQL Relational Databases, Web Applications with Flask, performing simple data analytics with Pandas and Numpy, and architecting cloud solutions on AWS. I am currently looking to pursue a graduate degree in Computer Science or Engineering.
+<h3 align="left"> I enjoy developing in Python the most, though the first language I learned to develop in was C. I am currently planning to pursue a graduate degree in Computer Science or Engineering.
 
 <h3 align="left">I enjoy riding and restoring classic motorcycles, I currently own a 1984 Honda Ascot VT500FT. I also love college football, stemming from my time at LSU.</h3>
 </p>
