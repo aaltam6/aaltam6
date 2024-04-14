@@ -22,9 +22,9 @@
 
 <p>
 
-<h3 align="left"> I enjoy developing in Python the most, though the first language I learned to develop in was C. I am currently planning to pursue a graduate degree in Computer Science or Engineering.
+<h3 align="left"> I enjoy developing in Python the most, though the first language I learned to develop in was C. I am currently a graduate student at Tulane University studying Computer Science.
 
-<h3 align="left">I enjoy riding and restoring classic motorcycles, I currently own a 1984 Honda Ascot VT500FT. I also love college football, stemming from my time at LSU.</h3>
+<h3 align="left"> I love college football, stemming from my time at LSU.</h3>
 </p>
 
 
